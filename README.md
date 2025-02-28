@@ -56,7 +56,7 @@
 
 ### 📫 Connect with me  
 📧 Email: [marandmahdi100@gmail.com](mailto:marandmandi100@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+💼 Linkedin: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
  [![Telegram](https://img.icons8.com/ios-filled/20/0088cc/telegram.png)](https://t.me/your-telegram)Telegram: [@MahdiZolfagharpour](https://t.me/@MahdiZolfagharpour)  
   
